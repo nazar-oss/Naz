@@ -13,4 +13,3 @@ export const UserCard: React.FC<UserCardProps> = ({ name, role }) => {
     </div>
   );
 };
-
